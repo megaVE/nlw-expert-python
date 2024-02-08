@@ -10,7 +10,7 @@ def create_tag():
     product_code = body.get('product_code')
 
     tag = Code128(product_code, writer=ImageWriter())
-    path_from_tag = f"{tag}"
+    path_from_tag = f"frontend/src/img/{tag}"
     tag.save(path_from_tag)
 
     return jsonify({ "tag_path": path_from_tag })

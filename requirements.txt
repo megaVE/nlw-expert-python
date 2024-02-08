@@ -8,6 +8,7 @@ distlib==0.3.8
 exceptiongroup==1.2.0
 filelock==3.13.1
 flask==3.0.2
+Flask-Cors==4.0.0
 identify==2.5.33
 importlib-metadata==7.0.1
 iniconfig==2.0.0
