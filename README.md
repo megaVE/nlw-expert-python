@@ -1,4 +1,4 @@
-# NWL Python
+# NLW Expert Python
 EN: Development of a back-end application in Python, using Flask as the framework, environment setup and project best practices with Virtualenv, Pylint, and code versioning using pre-commit, barcode generation with python-barcode, and testing with Pytest.
 
 PT: Desenvolvimento de uma aplicação back-end em Python, utilizando Flask como framework, preparação de ambiente e boas práticas de projeto com Virtualenv, Pylint e versionamento de código usando pre-commit, criação de código de barras com python-barcode e testes com Pytest.
