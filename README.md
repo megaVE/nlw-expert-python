@@ -83,3 +83,9 @@ to install the required dependencies via NPM. Then enter
 to run the Frontend interface.
 
 (para rodar a interface Frontend.)
+
+![1707404141070](https://github.com/user-attachments/assets/1d277959-f101-4ead-a638-e7e213d92360)
+
+![1707404141052](https://github.com/user-attachments/assets/ba889f98-fea1-4a22-9410-ea7b26bc4e95)
+
+![1707404141171](https://github.com/user-attachments/assets/f4b439cf-9049-46d8-9d04-28f009b4ed6b)
